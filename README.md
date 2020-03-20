@@ -13,7 +13,7 @@
 * Initially simply add your ideas as pull requests. Please do so additively, do not remove other people's contributions. I will deduplicate and merge similar points
 * Grammar and English improvements always welcome
 
-** Currently we are here **
+**Currently we are here**
 
 ### Syntethizing (phase 2)
 
