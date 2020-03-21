@@ -8,3 +8,11 @@ Thus, remote has two main qualities:
 
 * it is not bound to a location
 * the ability, and the necessity, to do so at indefinite length
+
+
+---
+
+Note to contributors, please add some more introduction text. Assume an audience that does not know remote work at all. The objective of this part is to set up the basic knowledge needed to understand the manifesto and principles.
+
+(work in progress, see [README.md](./README.md))
+
