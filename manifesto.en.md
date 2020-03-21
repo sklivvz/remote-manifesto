@@ -12,4 +12,6 @@ Through this work we have come to value:
 
 Note to contributors, please add points in the same "xxx over yyy" format only.
 
+We are in "brainstorm" mode now: feel free to add what comes to your mind, don't delete or change others' work (except grammar).
+
 (work in progress, see [README.md](./README.md))
