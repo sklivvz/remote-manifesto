@@ -14,5 +14,7 @@ Thus, remote has two main qualities:
 
 Note to contributors, please add some more introduction text. Assume an audience that does not know remote work at all. The objective of this part is to set up the basic knowledge needed to understand the manifesto and principles.
 
+We are in "brainstorm" mode now: feel free to add what comes to your mind, don't delete or change others' work (except grammar).
+
 (work in progress, see [README.md](./README.md))
 
