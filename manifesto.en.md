@@ -8,4 +8,8 @@ Through this work we have come to value:
 * Timezones over countries
 * Trust over micromanagement
 
+---
+
+Note to contributors, please add points in the same "xxx over yyy" format only.
+
 (work in progress, see [README.md](./README.md))
