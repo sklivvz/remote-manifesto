@@ -12,6 +12,8 @@ Through this work we have come to value:
 * Aligned autonomy over command and control
 * Servant leadership over do-what-I-say management
 * Physical distance over social distance (SARS-CoV-2 related)
+* Measuring over just winging it
+* Measuring results and output over measuring time spent and inputs
 
 ---
 
