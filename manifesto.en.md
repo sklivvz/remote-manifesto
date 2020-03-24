@@ -3,10 +3,17 @@
 We are uncovering better ways of working remotely by doing it and helping others do it.
 Through this work we have come to value:
 
-* Communication and collaboration over silosing and specialization
+* Communication and collaboration over siloing and specialization
 * Asynchronicity and just-in-time interaction over instantaneous communication
 * Timezones over countries
 * Trust over micromanagement
+* Accountability over fear
+* Transparency over opacity
+* Aligned autonomy over command and control
+* Servant leadership over do-what-I-say management
+* Physical distance over social distance (SARS-CoV-2 related)
+* Measuring over just winging it
+* Measuring results and output over measuring time spent and inputs
 
 ---
 
