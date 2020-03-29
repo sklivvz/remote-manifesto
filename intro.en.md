@@ -10,6 +10,8 @@ Thus, remote has two main qualities:
 * the ability, and the necessity, to do so at indefinite length
 
 
+Work should be bound by time (things do not have to happen at the same moment), nor should it wholly depend on others to go forward.
+
 ---
 
 Note to contributors, please add some more introduction text. Assume an audience that does not know remote work at all. The objective of this part is to set up the basic knowledge needed to understand the manifesto and principles.
