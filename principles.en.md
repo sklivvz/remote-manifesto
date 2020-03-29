@@ -16,6 +16,9 @@ Managers must trust their team to focus on achieving the desired results and the
 
 For autonomy to be useful in a business setting it must be accompanied by alignment and empathy. The team must know what the goals are and must be able to resolve conflicts in case of conflicting goals by themselves, wherever possible. Other than that, each team and member should be able to decide how to achieve the stated goals.
 
+5. Allignment
+
+Higher management need to ensure everyone is alligned to the same high level goal. This informs the team members and helps with individual and group goal setting and decision making, especially when multiple options are on the table which are not easily differentiated (e.g. "make the best user experience").
 
 ---
 
