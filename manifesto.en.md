@@ -14,6 +14,8 @@ Through this work we have come to value:
 * Physical distance over social distance (SARS-CoV-2 related)
 * Measuring over just winging it
 * Measuring results and output over measuring time spent and inputs
+* Productivity over screen time/time in seat
+* Thinking over reacting
 
 ---
 
